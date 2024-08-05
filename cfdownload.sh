@@ -1,6 +1,6 @@
 #!/bin/bash
 
-bucket_name="your_bucket_name"
+bucket_name="your_aws_bucket_name"
 log_prefix="log_prefix"
 local_folder="/tmp/unzipped_logs"
 last_date_file="/tmp/last_date.txt"
