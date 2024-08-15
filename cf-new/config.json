@@ -3,7 +3,6 @@
     "logPrefix": "firewall-events",
     "localFolder": "/tmp/unzipped_logs",
     "lastDateFile": "/tmp/last_date.txt",
-    "logFile": "/var/log/s3_logs.log",
     "maxJobs": 10,
     "region": "ap-south-1",
     "continuationTokenFile": "/tmp/token.txt"
