@@ -5,6 +5,6 @@
     "lastDateFile": "/tmp/last_date.txt",
     "maxJobs": 10,
     "region": "ap-south-1",
-    "gzip": false,
+    "logFile": "/var/log/cf_s3_log.log",
     "continuationTokenFile": "/tmp/token.txt"
 }
